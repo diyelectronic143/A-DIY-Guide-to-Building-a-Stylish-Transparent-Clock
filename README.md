@@ -36,11 +36,11 @@ This display boasts a resolution of 128×64, with a transparent area measuring 1
 
 To bring this transparent clock to life, I gathered the necessary components. First and foremost, an OLED transparent display with a converter was essential. For the brain of the operation, I opted for an Arduino Nano. Why the Nano? Its compact form aligns with my project's requirements. Lastly, the Real Time Clock (RTC) module played a crucial role. As its name suggests, the RTC ensures accurate timekeeping.
 
-For those aiming for a sleeker design, a custom PCB would be ideal. While I'm currently building this clock on a breadboard due to time constraints, I plan to design a custom PCB using EasyEDA in the near future. Once the PCB design is ready, I'll place an order through my favorite platform, JLCPCB.
+For those aiming for a sleeker design, a custom PCB would be ideal. While I'm currently building this clock on a breadboard due to time constraints, I plan to design a custom PCB using EasyEDA in the near future. Once the PCB design is ready, I'll place an order through my favorite platform, [JLCPCB](https://jlcpcb.com/IUP)
 
 ## A Word from Our Sponsor:
 
-Before proceeding, I'd like to extend a word of gratitude to our sponsor, JLCPCB. Transform your project dreams into reality with JLCPCB – the leading PCB company in China. They offer exceptional 1-8 Layer PCBs starting at just $2, along with unbeatable PCBA services for $0 (including free setup and stencil). By registering through my link, you'll also receive a generous $54 new user coupon code to fuel your creativity. Check it out: JLCPCB
+Before proceeding, I'd like to extend a word of gratitude to our sponsor, JLCPCB. Transform your project dreams into reality with [JLCPCB](https://jlcpcb.com/IUP) – the leading PCB company in China. They offer exceptional 1-8 Layer PCBs starting at just $2, along with unbeatable PCBA services for $0 (including free setup and stencil). By registering through my link, you'll also receive a generous $54 new user coupon code to fuel your creativity. Check it out: JLCPCB
 
 ## Wiring the Transparent Clock:
 
